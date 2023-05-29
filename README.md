@@ -3,13 +3,22 @@
   <img alt="Version" src="https://img.shields.io/badge/version-Python 3.10.10-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Using Python and its ecosystem of libraries to scrape information from a website (https://github/topics) and created a dataset of CSV file(s). Followed this hands-on tutorial for learning : https://www.youtube.com/watch?v=RKsLLG-bzEY
+> Using Python and its ecosystem of libraries to scrape information from a website (https://github/topics) and created a dataset of CSV file(s). 
+> Followed this hands-on tutorial for learning : https://www.youtube.com/watch?v=RKsLLG-bzEY
 
 ## Usage
 
 ```sh
 jupyter notebook
 ```
+## Steps to build this project
+
+Here are the steps we’ll follow to build a web scraping project from scratch:
+✅ Pick a website and identify the information to be scraped into a CSV file
+💾 Use the requests library to download web pages from the site programmatically
+💬 Use Beautiful Soup to parse and extract information from web pages
+📝 Create well-formatted CSV file(s) with the extracted information
+✍ Document and share your work online in the form of a Jupyter notebook or blog post
 
 ## Author
 
